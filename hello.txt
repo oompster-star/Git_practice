@@ -1,1 +1,6 @@
 hello git
+
+
+This is an edited line.
+Practicing Git commit and push.echo Practicing Git commit and push.
+Practicing Git commit and push.
